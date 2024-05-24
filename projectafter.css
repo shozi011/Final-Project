@@ -1,0 +1,52 @@
+.div1 {
+    background-color: brown;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1 {
+    padding-left: 30px;
+    margin: 20px;
+
+}
+
+.b1 {
+    width: 50px;
+    height: 50px;
+    margin: 40px;
+
+}
+
+.img2 {
+    width: 30px;
+    height: 30px;
+}
+
+.img4 {
+    width: 700px;
+    height: 600px;
+}
+
+.a1{
+    background-color: brown;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 20px;
+
+
+}
+
+.a1:hover{
+    background-color: white;
+    transition: all 0.8s;
+    color: brown;
+    border: 1px solid brown;
+}
+.div5{
+    display: flex;
+    justify-content: space-around;
+}
